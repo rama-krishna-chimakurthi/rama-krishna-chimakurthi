@@ -10,12 +10,10 @@ I'm a result-oriented Full Stack Web Developer with 3+ years of hands-on experie
 
 ### Product Engineer | TCS - Digitate | Chennai, India | Jul 2021 - Present
 
-- Implemented robust and scalable back-end solutions using NodeJS and Spring Boot.
-- Developed responsive and intuitive user interfaces with ReactJS.
-- Played a pivotal role in migrating a critical Java application to React and NodeJS, contributing to improved performance and delivering an enhanced user experience.
+- Engineered a robust, scalable, and testable end-to-end application using Spring Boot, Angular, and PostgreSQL, implementing modular code, which enhanced system maintainability and scalability.
+- Created and optimized Bash and PowerShell scripts for the discovery, management, and health monitoring of various Middleware Technologies, including **JBoss, Tomcat, Apache, Nginx, WebSphere, and WebLogic**.
 - Engaged in thorough discussions with cross-functional teams and business stakeholders to ensure a clear understanding of project objectives and requirements.
-- Actively engaged in Agile ceremonies, including sprint planning, daily stand-ups, and retrospective meetings, fostering a collaborative environment and contributing to project success.
-- Demonstrated expertise in all phases of the Software Development Life Cycle (SDLC) and proficiency in Agile methodology, contributing to the streamlined and efficient execution of projects.
+- Facilitated collaboration and project success by actively participating in Agile ceremonies, including sprint planning, daily stand-ups, and retrospectives, improving team productivity.
 <!--
 ## Previous Roles
 
