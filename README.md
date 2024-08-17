@@ -56,6 +56,13 @@ I'm a result-oriented Full Stack Web Developer with 3+ years of hands-on experie
 ## 🤝 Let's Connect!
 
 - [LinkedIn](https://www.linkedin.com/in/rama-krishna-guptha-chimakurthi/)
+
+
+![rama-krishna-chimakurthi's GitHub stats](https://github-readme-stats.vercel.app/api?username=rama-krishna-chimakurthi&show_icons=true&theme=gruvbox)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=rama-krishna-chimakurthi&theme=gruvbox&border_radius=4.5)
+
+
 <!--
 ## 💻 Portfolio
 
